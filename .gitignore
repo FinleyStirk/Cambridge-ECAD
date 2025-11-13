@@ -45,3 +45,6 @@
 
 # email history files
 **/*~
+
+# .dsStore
+*.DS_Store
